@@ -8,6 +8,7 @@ Features
 ========
 
 Color palette (change color with "+" or "-" keys like Paint).
+
 Pincel (Click)
 Eraser (Right Click)
 Enter (Reset)
